@@ -12,7 +12,9 @@ Other distance metrics (like Manhattan or Cosine) can also be used, depending on
 DBSCAN relies on two key parameters:
 
 eps (epsilon): The maximum distance between two data points to be considered as neighbors.
+
 min_samples: The minimum number of points needed to form a dense region (i.e., a cluster).
+
 Choosing these parameters is crucial for effective clustering. You may need to experiment with different values to get meaningful results.
 
 #### 4. Core, Border, and Noise Points:
