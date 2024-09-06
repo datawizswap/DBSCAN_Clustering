@@ -1,5 +1,5 @@
 # DBSCAN Clustering
-#### 1. Data Preparation:
+## 1. Data Preparation:
 Start with a dataset containing observations (data points) and features (variables). Ensure the data is clean and in a numeric format. If necessary, preprocess the data (e.g., normalize, scale) for better clustering results.
 
 #### 2. Distance Metric:
